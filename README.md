@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Ziling Wang
+**USF email address**:  zwang155@dons.usfca.edu
